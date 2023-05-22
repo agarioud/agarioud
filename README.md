@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey, I'm Anatol 👋
 
-<!--
-**agarioud/agarioud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I hold a Ph.D from @Université Gustave Eiffel on Earth Observation from remote sensing.
+- 🔭 I’m currently working on **AI for remote sensing image processing**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Stats
+
+<a href="https://github.com/wangzhiyu918">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=agarioud8&theme=onedark&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=agarioud&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
+</a>
