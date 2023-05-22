@@ -6,8 +6,8 @@
 
 ### 📈 Stats
 
-<a href="https://github.com/wangzhiyu918">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=agarioud8&theme=onedark&show_icons=true" />
+<a href="https://github.com/agarioud">
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=agarioud&theme=onedark&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
