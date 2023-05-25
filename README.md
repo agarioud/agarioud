@@ -1,7 +1,10 @@
 ## Hey, I'm Anatol 👋
 
-- 🌱:mortar_board: I hold a Ph.D from @Université Gustave Eiffel on Earth Observation from remote sensing.
-- 🔭 I’m currently working on **AI for remote sensing image processing**.
+- :mortar_board: I hold a Ph.D from @Université Gustave Eiffel on Earth Observation from remote sensing.
+- :seedling: I’m currently working on **AI for remote sensing image processing** at the French Mapping Agency (IGN).
+- :earth_africa: I'm interested in any Earth Observation projects ! Don't hesitate to reach me!
+- :link: Get in touch: <a href="https://fr.linkedin.com/in/agarioud">https://fr.linkedin.com/in/agarioud</a> 
+- :mag: About my work: <a href="https://www.researchgate.net/profile/Anatol-Garioud">https://www.researchgate.net/profile/Anatol-Garioud</a>
 
 
 ### 📈 Stats
