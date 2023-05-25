@@ -1,6 +1,6 @@
 ## Hey, I'm Anatol 👋
 
-- 🌱 I hold a Ph.D from @Université Gustave Eiffel on Earth Observation from remote sensing.
+- 🌱:mortar_board: I hold a Ph.D from @Université Gustave Eiffel on Earth Observation from remote sensing.
 - 🔭 I’m currently working on **AI for remote sensing image processing**.
 
 
