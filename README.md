@@ -17,7 +17,7 @@
   <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=agarioud&&include_orgs=true&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
 </a>
 
-<a href="https://www.researchgate.net/profile/Anatol-Garioud" target="blank_"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Anatol-Garioud" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
     
     
 </center>
