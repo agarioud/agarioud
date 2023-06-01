@@ -10,7 +10,7 @@
 ### 📈 Stats
 <center>
 <a href="https://github.com/agarioud">
-    <img align="center" height="150px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=agarioud&&include_orgs=true&theme=onedark&show_icons=true" />
+    <img decoding="async" loading="lazy" align="center" height="150px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=agarioud&&include_orgs=true&theme=onedark&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
