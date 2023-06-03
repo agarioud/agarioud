@@ -1,6 +1,6 @@
 ## Hello 👋
 
-- :mortar_board: I hold a Ph.D from @Université Gustave Eiffel on Earth Observation from remote sensing.
+- :mortar_board: I hold a Ph.D from Université Gustave Eiffel in Earth Observation from remote sensing satellite time series.
 - :seedling: I’m currently working on **AI for remote sensing image processing** at the French Mapping Agency (IGN).
 - :earth_africa: I'm interested in any Earth Observation projects ! Don't hesitate to reach me!
 - :link: Get in touch: <br><br>
