@@ -6,6 +6,7 @@
 - :link: Get in touch: <br><br>
 <a href="https://fr.linkedin.com/in/agarioud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Anatol-Garioud" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+<a href="https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 
 
 
