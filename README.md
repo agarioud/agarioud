@@ -2,7 +2,7 @@
 
 - :mortar_board: I hold a Ph.D from Université Gustave Eiffel in Earth Observation from remote sensing satellite time series.
 - :seedling: I’m currently working on **AI for remote sensing image processing** at the French Mapping Agency (IGN).
-- :earth_africa: I'm interested in any Earth Observation projects ! Don't hesitate to reach me!
+- :earth_africa: I'm interested in any Earth Observation projects! Don't hesitate to get in touch!
 - :link: Get in touch: <br><br>
 <a href="https://fr.linkedin.com/in/agarioud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Anatol-Garioud" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
