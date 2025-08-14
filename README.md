@@ -1,4 +1,6 @@
-## Hello 👋
+## 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=247827&width=435&lines=Hello+there%2C+👋)](https://git.io/typing-svg)
+
 
 - :seedling: Working on **AI for remote sensing image processing** at the French Mapping Agency (IGN).
 - :mortar_board: Ph.D in Earth Observation from satellite time series, Université Gustave Eiffel.
