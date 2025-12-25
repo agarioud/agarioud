@@ -2,12 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=247827&width=435&lines=Hello+there%2C+👋)](https://git.io/typing-svg)
 
 
-- :seedling: Working on **AI for remote sensing image processing** at the French Mapping Agency (IGN).
+- :seedling: Working on **GeoAI, Earth Observation** at the French National Mapping Agency (IGN).
 - :mortar_board: Ph.D in Earth Observation from satellite time series, Université Gustave Eiffel.
 - :earth_africa: Open to collaborations in Earth Observation — feel free to reach out.
-- :link: <br>
-<a href="https://fr.linkedin.com/in/agarioud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
-<a href="https://www.researchgate.net/profile/Anatol-Garioud" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a><br>
+- :link:
+<a href="https://fr.linkedin.com/in/agarioud" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Anatol-Garioud" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 <a href="https://scholar.google.fr/citations?user=6c9QX2AAAAAJ&hl=fr" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 
 ---
