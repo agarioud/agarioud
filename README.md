@@ -22,6 +22,3 @@
     <img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=agarioud&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
   </a>
 </div>
-
-
-![GitHub Card](https://githubcard.com/Agarioud.svg)
